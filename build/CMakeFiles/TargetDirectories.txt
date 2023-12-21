@@ -1,0 +1,3 @@
+/home/appledog/Desktop/Learn_openGL/1.4.1/build/CMakeFiles/main.dir
+/home/appledog/Desktop/Learn_openGL/1.4.1/build/CMakeFiles/edit_cache.dir
+/home/appledog/Desktop/Learn_openGL/1.4.1/build/CMakeFiles/rebuild_cache.dir

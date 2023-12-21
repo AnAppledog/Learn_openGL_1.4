@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/src/glad.c.o CMakeFiles/main.dir/src/init.cpp.o CMakeFiles/main.dir/src/shader.cpp.o CMakeFiles/main.dir/main.cpp.o -o main  -lglfw 
